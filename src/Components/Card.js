@@ -38,15 +38,6 @@ import React from 'react';
           </p>
         </div>
         <div className="footer-icons">
-//           <div className="icons">
-//             <FaShare />
-//           </div>
-//           <div className="icons">
-//             <FaHeart />
-//           </div>
-//           <div className="icons">
-//             <FaComment />
-//           </div>
         </div>
       </div>
 
