@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaComment, FaHeart, FaShare } from "react-icons/fa";
+// import { FaComment, FaHeart, FaShare } from "react-icons/fa";
 
  const Card = ({ movie, yearAndAuthor, images}) => {
   return (
