@@ -37,17 +37,17 @@ import React from 'react';
             blanditiis? Reprehenderit tenetur rem in incidunt debitis
           </p>
         </div>
-//         <div className="footer-icons">
-// //           <div className="icons">
-// //             <FaShare />
-// //           </div>
-// //           <div className="icons">
-// //             <FaHeart />
-// //           </div>
-// //           <div className="icons">
-// //             <FaComment />
+        <div className="footer-icons">
+//           <div className="icons">
+//             <FaShare />
 //           </div>
-//         </div>
+//           <div className="icons">
+//             <FaHeart />
+//           </div>
+//           <div className="icons">
+//             <FaComment />
+//           </div>
+        </div>
       </div>
 
       <div className="right-container-movie-banner">
